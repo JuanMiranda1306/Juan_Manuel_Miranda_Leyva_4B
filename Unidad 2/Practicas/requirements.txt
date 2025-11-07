@@ -1,0 +1,4 @@
+#Miranda Leyva Juan Manuel
+
+mysql-connector-python  #pip install -r requeriments.txt
+
